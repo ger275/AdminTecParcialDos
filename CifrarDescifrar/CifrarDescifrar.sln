@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CifrarDescifrar", "CifrarDescifrar.csproj", "{9264FC88-4226-4154-808D-D0CEC7F432E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9264FC88-4226-4154-808D-D0CEC7F432E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9264FC88-4226-4154-808D-D0CEC7F432E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9264FC88-4226-4154-808D-D0CEC7F432E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9264FC88-4226-4154-808D-D0CEC7F432E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BC0A1C1-3AF9-4230-A6A0-AF5EA6DC9230}
+	EndGlobalSection
+EndGlobal
